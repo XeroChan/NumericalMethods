@@ -1,0 +1,18 @@
+# ninja log v6
+19	1259	7395665507495779	CMakeFiles/NumericalMethods.dir/Methods/Methods.cpp.obj	977dc77469304e02
+6	945	7395466771328279	CMakeFiles/NumericalMethods.dir/Golder_ratio/gRatio.cpp.obj	25aebcb67588777c
+1260	1438	7395665519911315	NumericalMethods.exe	a0cdd1d53794a6f
+14	1034	7395467768374018	CMakeFiles/NumericalMethods.dir/Bisection/bisection.cpp.obj	786646d883be1c62
+7	551	7395676267495086	build.ninja	7f78136ee9a2b5e0
+32	956	7395681064882618	CMakeFiles/NumericalMethods.dir/Methods/functions.cpp.obj	2a1dea7a8f3f8daa
+110	968	7395681065674038	CMakeFiles/NumericalMethods.dir/Methods/falsi.cpp.obj	fcf41d5fd081233e
+43	978	7395681065010929	CMakeFiles/NumericalMethods.dir/Methods/lagrange.cpp.obj	c5842d74657afd5f
+78	1094	7395681065363315	CMakeFiles/NumericalMethods.dir/Methods/newton_interpolation.cpp.obj	4711f6580d669219
+93	1142	7395681065500023	CMakeFiles/NumericalMethods.dir/Methods/cubic_spline.cpp.obj	314e316b1522c44d
+978	1767	7395681074344088	CMakeFiles/NumericalMethods.dir/Methods/golden_ratio.cpp.obj	8b5ff20068162cc7
+968	1781	7395681074254054	CMakeFiles/NumericalMethods.dir/Methods/newton_raphson.cpp.obj	f656d6c2f271ea76
+1094	1823	7395681075515702	CMakeFiles/NumericalMethods.dir/Methods/bisection.cpp.obj	7f1947eada4d5eec
+1142	1861	7395681075983618	CMakeFiles/NumericalMethods.dir/Methods/gauss.cpp.obj	4b998380a74783a9
+958	2401	7395681074145905	CMakeFiles/NumericalMethods.dir/Methods/muller.cpp.obj	b56c2957be77c076
+18	2568	7395681064747294	CMakeFiles/NumericalMethods.dir/Methods/Methods.cpp.obj	977dc77469304e02
+2569	2915	7395681090258263	NumericalMethods.exe	55bef02beaa2c315
